@@ -1,0 +1,5 @@
+D 'lmgc': Granger Causality Test at Higher Order AR(p) Use lmgc With STATA 18
+D
+F lmgc.ado
+F lmgc.sthlp
+F lmgc.dlg
