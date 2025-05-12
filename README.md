@@ -1,6 +1,8 @@
 # lmgc
 Granger Causality Test at Higher Order AR(p) Use lmgc With STATA 19
 
+https://www.youtube.com/watch?v=xI5WFQAy-s4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
